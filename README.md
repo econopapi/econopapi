@@ -5,9 +5,9 @@ Find me at <a href="https://dlimon.net" target="_blank">dlimon.net</a> and dani@
 
 ## My stack
 <img src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png?1643514044" alt="python" width="20"> Python ¬ 
-<img src="https://emojis.slackmojis.com/emojis/images/1643515002/10311/php-logo.png?1643515002" alt="php" width="20">  PHP (for WP) ¬ 
+<img src="https://emojis.slackmojis.com/emojis/images/1643515002/10311/php-logo.png?1643515002" alt="php" width="20">  PHP ¬ 
 <img src="https://emojis.slackmojis.com/emojis/images/1663840214/61384/old-man-yells-at-javascript.png?1663840214" alt="javascript" width="20">  JavaScript ¬ 
-<img src="https://emojis.slackmojis.com/emojis/images/1696524024/70317/supabase.png?1696524024" alt="supabase" width="20">  Supabase/Postgres ¬ 
+<img src="https://emojis.slackmojis.com/emojis/images/1696524024/70317/supabase.png?1696524024" alt="supabase" width="20">  PostgreSQL / Supabase ¬ 
 <img src="https://emojis.slackmojis.com/emojis/images/1643514746/7532/tux.png?1643514746" alt="tux_icon" width="20">  Linux
 
 ## My passions
