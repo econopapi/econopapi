@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, i'm <a href="https://dlimon.net" target="_blank">Daniel Limón</a> <img src="https://emojis.slackmojis.com/emojis/images/1643515285/13059/blue_diamond.gif?1643515285" width="30"></h3>
 <img src="https://pbs.twimg.com/profile_banners/207359947/1707451759/1500x500" width="100%">
 <p>Economist. Developer. FOSS enthusiast.</p>
-Find me at <a href="https://dlimon.net" target="_blank">dlimon.net</a> and dani@dlimon.net
+Find me at <a href="https://econopapi.com" target="_blank">econopapi.com</a> and dani@dlimon.net
 
 ## My stack
 <img src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png?1643514044" alt="python" width="20"> Python - 
